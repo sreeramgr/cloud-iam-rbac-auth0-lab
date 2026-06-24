@@ -36,7 +36,7 @@ This lab uses Auth0 to create users, assign roles, configure MFA, create sample 
 
 ## Architecture Diagram
 
-![Auth0 Architecture Diagram](\diagrams\auth0-architecture-diagram.png")
+![Auth0 Architecture Diagram](diagrams/auth0-architecture-diagram.png)
 
 ## Users and Roles
 
